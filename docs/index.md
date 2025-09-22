@@ -12,7 +12,7 @@ This portfolio highlights my projects and experiments in the world of data.
 
 - 🍏 Apple App Store Analysis – Performed exploratory data analysis and preprocessing to uncover insights.  
 - 🔮 Customer Churn Prediction – Predicting customer retention with ML.  
-- 🧩 Customer Segmentation (RFM + K-Means) – Applied RFM analysis and K-Means clustering to segment customers for targeted marketing.  
+- 🧩 Customer Segmentation (RFM + K-Means) – Applied RFM analysis and K-Means clustering to segment customers.  
 
 ✨ **For the full list of my projects and repositories, visit:**  
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mutayyubmajeed)
