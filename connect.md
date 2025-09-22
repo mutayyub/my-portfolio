@@ -1,4 +1,4 @@
-## 📬 Let’s Connect
+# 📬 Let’s Connect
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mutayyubmajeed)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mutayyubmajeed/)
